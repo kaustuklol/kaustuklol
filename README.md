@@ -4,6 +4,8 @@
 
 <p align="center">
   I like building things, breaking them, fixing them, and learning how they work.
+
+  I'm currently looking for new projects, ideas, and opportunities to learn and collaborate. I'm also starting to work on open-source projects that solve real       problems and can be genuinely useful to others.
 </p>
 
 <p align="center">
@@ -27,9 +29,7 @@ After taking a break from coding, I'm now getting back into it with a simple goa
 
 > **Build consistently. Learn consistently. Get better every day.**
 
-I've worked on projects ranging from anime platforms and Telegram automation to web applications, API-driven systems, scraping tools, video streaming, and backend services.
-
-I learn best by actually building things and solving problems along the way.
+I've worked on projects ranging from anime platforms and Telegram automation to web applications, API-driven systems, scraping tools, video streaming, and backend services
 
 ---
 
