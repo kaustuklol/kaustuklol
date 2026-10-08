@@ -243,5 +243,3 @@ I took a break from coding, but now I'm back.
 Thanks for visiting my profile! 👋
 
 </p>
-
-Upload to Telegram
