@@ -1,27 +1,6 @@
 # 👋 Hey, I'm Kaustuk
 
-### Developer • Builder • Problem Solver
-
-<p align="center">
-  I like building things, breaking them, fixing them, and learning how they work.
-
-  I'm currently looking for new projects, ideas, and opportunities to learn and collaborate. I'm also starting to work on open-source projects that solve real       problems and can be genuinely useful to others.
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaustuklol">
-    <img src="https://img.shields.io/github/followers/kaustuklol?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/kaustuklol?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Kaustuk**, a developer who enjoys turning ideas into working projects.
+A developer who enjoys turning ideas into working projects.
 
 I started coding around **3 years ago** and spent a lot of time experimenting with different areas of development.
 
