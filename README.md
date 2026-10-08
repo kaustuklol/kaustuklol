@@ -225,12 +225,22 @@ I took a break from coding, but now I'm back.
   <img src="https://img.shields.io/badge/LinkedIn-Kaustuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://instagram.com/kaustuklol">
+  <img src="https://img.shields.io/badge/Instagram-@kaustuklol-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://t.me/kaustuk_xd">
+  <img src="https://img.shields.io/badge/Telegram-@kaustuk__xd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
 </p>
 
 <p align="center">
 
 💻 <b>GitHub</b> — Projects & experiments  
-💼 <b>LinkedIn</b> — Professional journey & opportunities
+💼 <b>LinkedIn</b> — Professional journey & opportunities  
+📸 <b>Instagram</b> — @kaustuklol  
+✈️ <b>Telegram</b> — @kaustuk_xd
 
 </p>
 
