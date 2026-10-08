@@ -196,26 +196,73 @@ AniMaze is a full-stack anime website where users can discover anime, search for
 https://github.com/kaustuklol/AniMaze
 
 ---
+# 🔭 What's Next
 
-# 🤖 AutoAnime
+My goal now is to become more consistent with development and keep building projects that solve real problems.
 
-### Automated Anime → Telegram Publishing System
+I'm currently focusing on:
 
-AutoAnime is a Python automation project designed to reduce repetitive work involved in managing an ongoing-anime Telegram channel.
+- 🚀 Building more full-stack projects
+- 🧠 Improving Data Structures & Algorithms
+- ⚙️ Getting better at backend development
+- 🔌 Learning more about APIs and system design
+- 🤝 Contributing to open source
+- 💡 Turning ideas into working products
+- 📈 Becoming a more consistent developer
 
-The bot automates parts of the process from finding and downloading episodes to processing videos, generating thumbnails, and publishing posts.
+I took a break from coding, but now I'm back.
 
-### Workflow
+**More projects. More learning. More consistency.**
 
-```text
-Find Episode
-     ↓
-Download
-     ↓
-Process Video
-     ↓
-Generate Thumbnail
-     ↓
-Prepare Post
-     ↓
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaustuklol&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustuklol&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kaustuklol&theme=tokyonight&hide_border=true" height="180">
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/kaustuklol">
+  <img src="https://img.shields.io/badge/GitHub-kaustuklol-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/kaustuk/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaustuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+
+💻 <b>GitHub</b> — Projects & experiments  
+💼 <b>LinkedIn</b> — Professional journey & opportunities
+
+</p>
+
+---
+
+<p align="center">
+
+### "Build something. Break something. Learn something."
+
+Thanks for visiting my profile! 👋
+
+</p>
+
 Upload to Telegram
