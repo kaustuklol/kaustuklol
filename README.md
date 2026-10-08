@@ -235,14 +235,6 @@ I took a break from coding, but now I'm back.
 
 </p>
 
-<p align="center">
-
-💻 <b>GitHub</b> — Projects & experiments  
-💼 <b>LinkedIn</b> — Professional journey & opportunities  
-📸 <b>Instagram</b> — @kaustuklol  
-✈️ <b>Telegram</b> — @kaustuk_xd
-
-</p>
 
 ---
 
