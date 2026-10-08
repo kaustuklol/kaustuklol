@@ -27,137 +27,139 @@ After taking a break from coding, I'm now getting back into it with a simple goa
 
 > **Build consistently. Learn consistently. Get better every day.**
 
-I've worked on projects ranging from anime platforms and Telegram automation to web applications, API-driven systems, scraping tools, and backend services.
+I've worked on projects ranging from anime platforms and Telegram automation to web applications, API-driven systems, scraping tools, video streaming, and backend services.
 
 I learn best by actually building things and solving problems along the way.
-
----
-
-## 🚀 What I Build
-
-Some of the things I've worked on:
-
-- 🌐 Full-stack web applications
-- 🔌 REST & GraphQL API integration
-- 🤖 Telegram automation
-- 🎬 Video streaming systems
-- 🎞️ Video & image processing
-- 🔎 Web scraping
-- ⚡ Asynchronous applications
-- 📊 Data processing
-- 🚀 Application deployment
-- 🧩 Admin dashboards
-- 🔄 Automated workflows
 
 ---
 
 # 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 </p>
-
-### 🐍 Python
-
-My main language for:
-
-- Backend development
-- FastAPI
-- Automation
-- Web scraping
-- APIs
-- Data processing
-- Telegram bots
-
-### ⚡ JavaScript
-
-Used for:
-
-- Frontend development
-- DOM manipulation
-- API integration
-- Interactive web applications
-- Video player functionality
-
-### 🧱 C++
-
-Currently using C++ for:
-
-- Problem solving
-- Data structures and algorithms
-- Competitive programming practice
-- Building stronger programming fundamentals
-
-### 🔧 C
-
-Used for learning programming fundamentals and understanding how lower-level programming works.
-
-### 🌐 HTML & CSS
-
-Used for building responsive web interfaces and layouts.
 
 ---
 
-# 🛠️ Technologies I've Worked With
+# 🛠️ Technologies & Tools
+
+## 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,tailwind,graphql,git,github,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 </p>
 
-## Backend
+---
 
-- Python
-- FastAPI
-- Jinja2
-- AsyncIO
-- HTTPX
-- Uvicorn
+## ⚙️ Backend & APIs
 
-## Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,graphql" />
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
+<p align="center">
 
-## APIs & Data
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTTPX-000000?style=for-the-badge&logo=python&logoColor=white">
 
-- REST APIs
-- GraphQL
-- AniList API
-- Consumet API
+</p>
 
-## Web Scraping
+---
 
-- BeautifulSoup
-- Requests
-- Feedparser
+## 🔎 Web Scraping & Data
 
-## Automation
+<p align="center">
 
-- Pyrogram
-- Telegram API
-- AsyncIO
-- Scheduled workflows
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Feedparser-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge">
 
-## Video & Image Processing
+</p>
 
-- HLS
-- HLS.js
-- Plyr
-- M3U8
-- OpenCV
-- Pillow
-- Subtitle handling
+---
 
-## Deployment & Tools
+## 🤖 Automation & Telegram
 
-- Git
-- GitHub
-- Vercel
-- Railway
-- Replit
-- Docker
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-FF9800?style=for-the-badge">
+<img src="https://img.shields.io/badge/Async%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+</p>
+
+---
+
+## 🎥 Video & Streaming
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HLS-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/HLS.js-1E88E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Plyr-00A8E8?style=for-the-badge">
+<img src="https://img.shields.io/badge/M3U8-FF5722?style=for-the-badge">
+<img src="https://img.shields.io/badge/WebVTT-673AB7?style=for-the-badge">
+
+</p>
+
+---
+
+## 🖼️ Image & Video Processing
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Video%20Processing-FF6F00?style=for-the-badge">
+
+</p>
+
+---
+
+## 🔗 APIs & Services
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Consumet-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge">
+
+</p>
+
+---
+
+## 🚀 Deployment & Hosting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,docker" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white">
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white">
+
+</p>
+
+---
+
+## 🔧 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
 ---
 
@@ -182,20 +184,13 @@ AniMaze is a full-stack anime website where users can discover anime, search for
 - 🌙 Dark / Light mode
 - 📱 Responsive design
 
-### Technologies
+### Built With
 
-**Python • FastAPI • Jinja2 • JavaScript • Tailwind CSS • GraphQL • AniList • Consumet • HLS.js • Plyr**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,tailwind,graphql,vercel" />
+</p>
 
-### What I learned
-
-- Connecting multiple APIs
-- GraphQL
-- Async programming
-- Dynamic routing
-- HLS video streaming
-- Subtitle handling
-- CORS
-- Backend deployment
+**Also used:** AniList • Consumet • HLS.js • Plyr • Jinja2 • HTTPX • AsyncIO
 
 🔗 **Repository:**  
 https://github.com/kaustuklol/AniMaze
